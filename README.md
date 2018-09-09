@@ -1,3 +1,9 @@
+# Hey There!
+
+This repository belongs to Yi Zong Kuang, senior at Hunter College CUNY. And contains weekly blogs written about my progress (and possibly some codes!) in my pursue of learning the Way of the Open Source. May the Source be with you (terrible, terrible puns. I know...).
+
+# ----------------------------------------------------------------------------------
+
 # About Your Jekyll-based Blog Hosted on GitHub Pages
 
 
